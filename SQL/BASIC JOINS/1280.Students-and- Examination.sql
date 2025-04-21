@@ -1,21 +1,8 @@
-# Write your MySQL query statement below
-(
-    SELECT name AS results
-    FROM
-        Users
-        JOIN MovieRating USING (user_id)
-    GROUP BY user_id
-    ORDER BY COUNT(1) DESC, name
-    LIMIT 1
-)
-UNION ALL
-(
-    SELECT title
-    FROM
-        MovieRating
-        JOIN Movies USING (movie_id)
-    WHERE DATE_FORMAT(created_at, '%Y-%m') = '2020-02'
-    GROUP BY movie_id
-    ORDER BY AVG(rating) DESC, title
-    LIMIT 1
-);
+SELECT s.student_id , s.student_name, sub.subject_name ,
+    COUNT(e.student_id) AS attended_exams
+    FROM Students s 
+    CROSS JOIN Subjects sub 
+    LEFT JOIN Examinations e
+    ON s.student_id = e.student_id AND sub.subject_name = e.subject_name
+    GROUP BY s.student_id ,s.student_name,sub.subject_name
+    ORDER BY s.student_id ,sub.subject_name;
