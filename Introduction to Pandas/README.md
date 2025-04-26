@@ -2,7 +2,7 @@
 
 | Problem No. | Problem Name                  | File Link                       | 
 |-------------|--------------------------------|----------------------------------|
-| 2877        | Create a DataFrame from List   | [2877. Create a DataFrame from List..py](https://github.com/your-username/your-repo-name/blob/main/2877.%20Create%20a%20DataFrame%20from%20List..py) |
+| 2877        | Create a DataFrame from List   | [Create a DataFrame from list](https://leetcode.com/problems/create-a-dataframe-from-list/) |
 | 2878        | Get the Size of a DataFrame    | 2878. Get the Size of a DataFrame.py  | 
 | 2879        | Display the First Three Rows   | 2879. Display the First Three Rows.py | 
 | 2880        | Select Data                    | 2880. Select Data.py                  | 
