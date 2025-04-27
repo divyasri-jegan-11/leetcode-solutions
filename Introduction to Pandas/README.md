@@ -8,9 +8,9 @@
 | 2880        | Select Data                    | [Select Data](   https://leetcode.com/problems/select-data?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)         | 
 | 2881        | Create a New Column            | [Create a New Column]( https://leetcode.com/problems/create-a-new-column?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)        | 
 | 2882        | Drop Duplicate Rows            | [Drop Duplicate Rows]( https://leetcode.com/problems/drop-duplicate-rows?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)         | 
-| 2883        | Drop Missing Data              | 2883. Drop Missing Data.py             |
-| 2884        | Modify Columns                 | 2884. Modify Columns.py                |
-| 2885        | Rename Columns                 | 2885. Rename Columns.py                | 
+| 2883        | Drop Missing Data              | [Drop Missing Data]( https://leetcode.com/problems/drop-missing-data?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)            |
+| 2884        | Modify Columns                 | [Modify Columns](https://leetcode.com/problems/modify-columns?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)            |
+| 2885        | Rename Columns                 | [Rename Columns](https://leetcode.com/problems/rename-columns?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)           | 
 | 2886        | Change Data Type               | 2886. Change Data Type.py              | 
 | 2887        | Fill Missing Data              | 2887. Fill Missing Data.py             |
 
