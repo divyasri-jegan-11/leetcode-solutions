@@ -14,6 +14,6 @@
 | 2886        | Change Data Type               | [Change Data Type](https://leetcode.com/problems/change-data-type?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)             | 
 | 2887        | Fill Missing Data              | [Fill Missing Data](https://leetcode.com/problems/fill-missing-data?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)      |
 | 2888        | Reshape Data : Concatenate            | [Reshape Data :Concatenate](https://leetcode.com/problems/reshape-data-concatenate?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)      |
-| 2887        | Fill Missing Data              | [Fill Missing Data](https://leetcode.com/problems/fill-missing-data?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)      |
-| 2887        | Fill Missing Data              | [Fill Missing Data](https://leetcode.com/problems/fill-missing-data?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)      |
-| 2887        | Fill Missing Data              | [Fill Missing Data](https://leetcode.com/problems/fill-missing-data?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)      |
+| 2889      | Reshape Data: Pivot             | [Reshape Data :Pivot](https://leetcode.com/problems/reshape-data-pivot?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata))      |
+| 2890        | Reshape Data: Melt             | [Reshape Data :Melt](https://leetcode.com/problems/reshape-data-pivot?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)     |
+| 2891      | Method Chaining             | [Method Chaining](https://leetcode.com/problems/reshape-data-pivot?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)      |
