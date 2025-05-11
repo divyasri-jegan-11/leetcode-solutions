@@ -8,4 +8,4 @@
 | 4 | 1321      | Restaurant Growth                 | [Restaurant Growth](   https://leetcode.com/problems/restaurant-growth?envType=study-plan-v2&envId=top-sql-50)         | 
 | 5 | 602      | Friend Requests II: Who Has the Most Friends           | [Friend Requests II]( https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends?envType=study-plan-v2&envId=top-sql-50)        | 
 | 6 | 585       | Investments in 2016         | [Investments in 2016]( https://leetcode.com/problems/investments-in-2016?envType=study-plan-v2&envId=top-sql-50)         | 
-| 7 | 2883        | Drop Missing Data              | [Drop Missing Data]( https://leetcode.com/problems/drop-missing-data?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)            |
+| 7 | 185        |Department Top Three Salaries             | [Department Top Three Salaries]( https://leetcode.com/problems/department-top-three-salaries?envType=study-plan-v2&envId=top-sql-50)            |
