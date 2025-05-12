@@ -4,7 +4,7 @@
 |S.No| Problem No. | Problem Name                  | File Link                       | 
 |-----|-------------|--------------------------------|----------------------------------|
 | 1 | 1667     | Fix Names in a Table | [Fix Names in a Table]( https://leetcode.com/problems/fix-names-in-a-table?envType=study-plan-v2&envId=top-sql-50)|
-| 2 | 626        | Exchange Seats   | [Exchange Seats](https://leetcode.com/problems/exchange-seats?envType=study-plan-v2&envId=top-sql-50)  | 
+| 2 | 1527      | Patients With a Condition | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition?envType=study-plan-v2&envId=top-sql-50)  | 
 | 3 | 1341      | Movie Rating   | [Movie Rating](https://leetcode.com/problems/movie-rating?envType=study-plan-v2&envId=top-sql-50)
 | 4 | 1321      | Restaurant Growth                 | [Restaurant Growth](   https://leetcode.com/problems/restaurant-growth?envType=study-plan-v2&envId=top-sql-50)         | 
 | 5 | 602      | Friend Requests II: Who Has the Most Friends           | [Friend Requests II]( https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends?envType=study-plan-v2&envId=top-sql-50)        | 
