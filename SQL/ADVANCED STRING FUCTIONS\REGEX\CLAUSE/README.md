@@ -8,5 +8,5 @@
 | 3 | 196    | Delete Duplicate Emails  | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails?envType=study-plan-v2&envId=top-sql-50)
 | 4 | 176  | Restaurant Growth                 | [Restaurant Growth](   https://leetcode.com/problems/restaurant-growth?envType=study-plan-v2&envId=top-sql-50)         | 
 | 5 | 602      | Second Highest Salary          | [Second Highest Salary]( https://leetcode.com/problems/second-highest-salary?envType=study-plan-v2&envId=top-sql-50)        | 
-| 6 | 585       | Investments in 2016         | [Investments in 2016]( https://leetcode.com/problems/investments-in-2016?envType=study-plan-v2&envId=top-sql-50)         | 
-| 7 | 185        |Department Top Three Salaries             | [Department Top Three Salaries]( https://leetcode.com/problems/department-top-three-salaries?envType=study-plan-v2&envId=top-sql-50)            |
+| 6 | 1484      | Group Sold Products By The Date       | [Group Sold Products By The Date]( https://leetcode.com/problems/group-sold-products-by-the-date?envType=study-plan-v2&envId=top-sql-50)         | 
+| 7 | 1327     | List the Products Ordered in a Period           | [List the Products Ordered in a Period]( https://leetcode.com/problems/list-the-products-ordered-in-a-period?envType=study-plan-v2&envId=top-sql-50)            |
