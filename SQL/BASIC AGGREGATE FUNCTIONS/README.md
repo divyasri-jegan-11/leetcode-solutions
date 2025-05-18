@@ -8,7 +8,7 @@
 | 4 | 1633  | Percentage of Users Attended a Contest | [Percentage of Users Attended a Contest]( https://leetcode.com/problems/percentage-of-users-attended-a-contest?envType=study-plan-v2&envId=top-sql-50)        | 
 | 5 | 1211  |  Queries Quality and Percentage | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage?envType=study-plan-v2&envId=top-sql-50)    | 
 | 6 | 1193  |   Monthly Transactions I | [ Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i?envType=study-plan-v2&envId=top-sql-50)    |
-| 7 | 1280  | Students and Examinations | [Students and Examinations](https://leetcode.com/problems/students-and-examinations?envType=study-plan-v2&envId=top-sql-50)    |
+| 7 | 1174  | Immediate Food Delivery II | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii?envType=study-plan-v2&envId=top-sql-50)    |
 | 8 | 570    |  Managers with at Least 5 Direct Reports | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports?envType=study-plan-v2&envId=top-sql-50)    |
 | 9 | 1934 |  Confirmation Rate | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate?envType=study-plan-v2&envId=top-sql-50)    |
 
