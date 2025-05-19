@@ -10,7 +10,5 @@
 | 4 | 596  | Classes More Than 5 Students | [Classes More Than 5 Students]( https://leetcode.com/problems/classes-more-than-5-students?envType=study-plan-v2&envId=top-sql-50)        | 
 | 5 | 1729   |  Find Followers Count | [Find Followers Count](https://leetcode.com/problems/find-followers-count?envType=study-plan-v2&envId=top-sql-50)    | 
 | 6 | 619  |   Biggest Single Number | [ Biggest Single Number ](https://leetcode.com/problems/biggest-single-number?envType=study-plan-v2&envId=top-sql-50)    |
-| 7 | 1280  | Students and Examinations | [Students and Examinations](https://leetcode.com/problems/students-and-examinations?envType=study-plan-v2&envId=top-sql-50)    |
-| 8 | 570    |  Managers with at Least 5 Direct Reports | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports?envType=study-plan-v2&envId=top-sql-50)    |
-| 9 | 1934 |  Confirmation Rate | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate?envType=study-plan-v2&envId=top-sql-50)    |
+| 7 | 1045  | Customers Who Bought All Products | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products?envType=study-plan-v2&envId=top-sql-50)    |
 
