@@ -8,8 +8,7 @@
 | 4 | 180 | Consecutive Numbers | [Consecutive Numbers]( https://leetcode.com/problems/consecutive-numbers?envType=study-plan-v2&envId=top-sql-50)        | 
 | 5 | 1164  |  Product Price at a Given Date | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date?envType=study-plan-v2&envId=top-sql-50)    | 
 | 6 | 1204  |  Last Person to Fit in the Bus | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus?envType=study-plan-v2&envId=top-sql-50)    |
-| 7 | 1174  | Immediate Food Delivery II | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii?envType=study-plan-v2&envId=top-sql-50)    |
-| 8 | 550    | Game Play Analysis IV | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv?envType=study-plan-v2&envId=top-sql-50)    |
+| 7 | 1907  | Count Salary Categories | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories?envType=study-plan-v2&envId=top-sql-50)    |
 
 
 
