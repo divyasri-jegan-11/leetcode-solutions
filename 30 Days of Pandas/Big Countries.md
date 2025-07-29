@@ -3,7 +3,7 @@
 
 ## 📝 Problem Statement
  
- ### Table: `World`
+####  Table: `World`
 
 
 | Column Name | Type    |
@@ -28,24 +28,26 @@ Return the result table in any order.
 
 ## 📥 Example Input
 Input:
-student_data:
-[
-  [1, 15],
-  [2, 11],
-  [3, 11],
-  [4, 20]
-]
-Output:
+Input: 
+World table:
 
-| student_id | age |
-|------------|-----|
-| 1          | 15  |
-| 2          | 11  |
-| 3          | 11  |
-| 4          | 20  |
+| name        | continent | area    | population | gdp          |
+|-------------|-----------|---------|------------|--------------|
+| Afghanistan | Asia      | 652230  | 25500100   | 20343000000  |
+| Albania     | Europe    | 28748   | 2831741    | 12960000000  |
+| Algeria     | Africa    | 2381741 | 37100000   | 188681000000 |
+| Andorra     | Europe    | 468     | 78115      | 3712000000   |
+| Angola      | Africa    | 1246700 | 20609294   | 100990000000 |
 
-Explanation:
- - A DataFrame was created on top of student_data, with two columns named student_id and age.
+
+Output: 
+
+| name        | population | area    |
+|-------------|------------|---------|
+| Afghanistan | 25500100   | 652230  |
+| Algeria     | 37100000   | 2381741 |
+
+
 
 ---
 
