@@ -53,20 +53,10 @@ Output:
 
 ## 💡 Pandas Solution
 
-```sql
-
-
+```pandas
 
 import pandas as pd
 
-def createDataframe(student_data: List[List[int]]) -> pd.DataFrame:
-    col = ['student_id','age']
-    df= pd.DataFrame(student_data, columns= col)
-    return df
-data = [[1,15],
-        [2,11],
-        [3,11],
-        [4,20]]
-        
-df = createDataframe(data)
-print(df)
+def big_countries(world: pd.DataFrame) -> pd.DataFrame:
+    return world[(world['area'] >= 3000000) | (world['population'] >= 25000000)][['name', 'population', 'area']]
+
