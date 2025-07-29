@@ -1,11 +1,29 @@
 
-# 2877. Create a DataFrame from List
+# 595. Big Countries
 
 ## 📝 Problem Statement
-Write a solution to create a DataFrame from a 2D list called student_data. This 2D list contains the IDs and ages of some students.
+ 
+ ### Table: `World`
 
-The DataFrame should have two columns, student_id and age, and be in the same order as the original 2D list.
 
+| Column Name | Type    |
+|-------------|---------|
+| name        | varchar |
+| continent   | varchar |
+| area        | int     |
+| population  | int     |
+| gdp         | bigint  |
+
+name is the primary key (column with unique values) for this table.
+Each row of this table gives information about the name of a country, the continent to which it belongs, its area, the population, and its GDP value.
+
+A country is big if:
+
+it has an area of at least three million (i.e., 3000000 km2), or
+it has a population of at least twenty-five million (i.e., 25000000).
+Write a solution to find the name, population, and area of the big countries.
+
+Return the result table in any order.
 ---
 
 ## 📥 Example Input
