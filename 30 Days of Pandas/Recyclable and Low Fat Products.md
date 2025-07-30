@@ -52,6 +52,5 @@ Explanation: Only products 1 and 3 are both low fat and recyclable.
 
 import pandas as pd
 
-def big_countries(world: pd.DataFrame) -> pd.DataFrame:
-    return world[(world['area'] >= 3000000) | (world['population'] >= 25000000)][['name', 'population', 'area']]
-
+def find_products(products: pd.DataFrame) -> pd.DataFrame:
+    return products.loc[(products['low_fats'] == 'Y') & (products['recyclable'] == 'Y'), ['product_id']]
