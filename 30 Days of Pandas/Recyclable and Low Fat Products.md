@@ -1,27 +1,22 @@
-# 595. Big Countries
+# 1757. Recyclable and Low Fat Products
 
 ## 📝 Problem Statement
  
-###  Table: `World`
+### Table: `Products`
 
 
 | Column Name | Type    |
 |-------------|---------|
-| name        | varchar |
-| continent   | varchar |
-| area        | int     |
-| population  | int     |
-| gdp         | bigint  |
+| product_id  | int     |
+| low_fats    | enum    |
+| recyclable  | enum    |
 
- - name is the primary key (column with unique values) for this table.
- - Each row of this table gives information about the name of a country, the continent to which it belongs, its area, the population, and its GDP value.
+ - product_id is the primary key (column with unique values) for this table.
+ - low_fats is an ENUM (category) of type ('Y', 'N') where 'Y' means this product is low fat and 'N' means it is not.
+ - recyclable is an ENUM (category) of types ('Y', 'N') where 'Y' means this product is recyclable and 'N' means it is not.
+ 
 
- A country is big if:
- - it has an area of at least three million (i.e., 3000000 km2), or
- - it has a population of at least twenty-five million (i.e., 25000000).
-
-Write a solution to find the name, population, and area of the big countries.
-
+Write a solution to find the ids of products that are both low fat and recyclable.
 
 ---
 
