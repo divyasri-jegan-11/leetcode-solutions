@@ -21,25 +21,26 @@ Write a solution to find the ids of products that are both low fat and recyclabl
 ---
 
 ## 📥 Example Input
-Input:
 Input: 
-World table:
+Products table:
 
-| name        | continent | area    | population | gdp          |
-|-------------|-----------|---------|------------|--------------|
-| Afghanistan | Asia      | 652230  | 25500100   | 20343000000  |
-| Albania     | Europe    | 28748   | 2831741    | 12960000000  |
-| Algeria     | Africa    | 2381741 | 37100000   | 188681000000 |
-| Andorra     | Europe    | 468     | 78115      | 3712000000   |
-| Angola      | Africa    | 1246700 | 20609294   | 100990000000 |
-
+| product_id  | low_fats | recyclable |
+|-------------|----------|------------|
+| 0           | Y        | N          |
+| 1           | Y        | Y          |
+| 2           | N        | Y          |
+| 3           | Y        | Y          |
+| 4           | N        | N          |
 
 Output: 
 
-| name        | population | area    |
-|-------------|------------|---------|
-| Afghanistan | 25500100   | 652230  |
-| Algeria     | 37100000   | 2381741 |
+| product_id  |
+|-------------|
+| 1           |
+| 3           |
+
+Explanation: Only products 1 and 3 are both low fat and recyclable.
+
 
 
 
