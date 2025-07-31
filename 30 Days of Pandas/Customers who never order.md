@@ -33,26 +33,31 @@ Return the result table in any order.
 
 ---
 
-## 📥 Example Input
-Input: 
-Products table:
+## 📥 Example Input:
 
-| product_id  | low_fats | recyclable |
-|-------------|----------|------------|
-| 0           | Y        | N          |
-| 1           | Y        | Y          |
-| 2           | N        | Y          |
-| 3           | Y        | Y          |
-| 4           | N        | N          |
+Input: 
+Customers table:
+
+| id | name  |
+|----|-------|
+| 1  | Joe   |
+| 2  | Henry |
+| 3  | Sam   |
+| 4  | Max   |
+
+Orders table:
+
+| id | customerId |
+|----|------------|
+| 1  | 3          |
+| 2  | 1          |
 
 Output: 
 
-| product_id  |
-|-------------|
-| 1           |
-| 3           |
-
-Explanation: Only products 1 and 3 are both low fat and recyclable.
+| Customers |
+|-----------|
+| Henry     |
+| Max       |
 
 
 
