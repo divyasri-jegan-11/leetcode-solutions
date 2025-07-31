@@ -1,22 +1,35 @@
-# 1757. Recyclable and Low Fat Products
+# 183. Customers Who Never Order
 
 ## 📝 Problem Statement
  
-### Table: `Products`
+### Table: `Customers`
 
 
 | Column Name | Type    |
 |-------------|---------|
-| product_id  | int     |
-| low_fats    | enum    |
-| recyclable  | enum    |
+| id          | int     |
+| name        | varchar |
 
- - product_id is the primary key (column with unique values) for this table.
- - low_fats is an ENUM (category) of type ('Y', 'N') where 'Y' means this product is low fat and 'N' means it is not.
- - recyclable is an ENUM (category) of types ('Y', 'N') where 'Y' means this product is recyclable and 'N' means it is not.
+ - id is the primary key (column with unique values) for this table.
+ - Each row of this table indicates the ID and name of a customer.
  
 
-Write a solution to find the ids of products that are both low fat and recyclable.
+### Table: `Orders`
+
+
+| Column Name | Type |
+|-------------|------|
+| id          | int  |
+| customerId  | int  |
+
+ - id is the primary key (column with unique values) for this table.
+ - customerId is a foreign key (reference columns) of the ID from the Customers table.
+ - Each row of this table indicates the ID of an order and the ID of the customer who ordered it.
+ 
+
+Write a solution to find all customers who never order anything.
+
+Return the result table in any order.
 
 ---
 
